@@ -17,3 +17,5 @@ images:
 - name: guestbook
   newName: guestbook
   newTag: new
+
+namespace: guestbook-gitops
